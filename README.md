@@ -1,6 +1,6 @@
 # StrongerCaesarCipher
 
-This is regarding assignment 1 for CMPUT 299, at University Of Alberta submitted by Ritvik Khanna
+This is regarding assignment 2 for CMPUT 299, at University Of Alberta submitted by Ritvik Khanna
 
 
 All the codes in problems 1,2,4 were taken from http://inventwithpython.com/hacking/ in the download source and other files for this book.
